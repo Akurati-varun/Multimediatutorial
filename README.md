@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Multimediaproject</title>
-<link href="css/simpleGridTemplate.css" rel="stylesheet" type="text/css">
+<link href="./simpleGridTemplate.css" rel="stylesheet" type="text/css">
 </head>
 <body style="background: rgba(99,45,193,1.00)">
 <!-- Main Container -->
