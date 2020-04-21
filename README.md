@@ -1,13 +1,15 @@
+<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="./simpleGridTemplate.css" rel="stylesheet" type="text/css">
+<title>Multimediaproject</title>
+<link href="css/simpleGridTemplate.css" rel="stylesheet" type="text/css">
 </head>
 <body style="background: rgba(99,45,193,1.00)">
 <!-- Main Container -->
-<div class="container" style="width: 1000px"> 
+<div class="container" style="width: auto"> 
   <!-- Header -->
   <header class="header">
     <h4 class="logo">What's Multimedia?</h4>
@@ -23,17 +25,17 @@
 		<ul class="section-btn">
                               <a href="#Gallery" class="smoothScroll"><span data-hover="Discover More">Discover More</span></a>
                          </ul>
-	  </div>
+    </div>
   </section>
   <!-- Stats Gallery Section -->
 <section id="Gallery">
-  <div class="gallery" ;style="background-image: url('./Website-Design-Background.jpg')">
-	  <div class="thumbnail"> <a href="https://drive.google.com/file/d/1IKqghWEcoZRY1hSU_8f2GBa-wyuJqXO0/view?usp=sharing"><img src="./logo.png" alt="" width="1783" class="cards"/></a>
+       <div class="gallery" style="background-image:url('./Website-Design-Background.jpg')">
+          <div class="thumbnail"> <a href="https://drive.google.com/file/d/1IKqghWEcoZRY1hSU_8f2GBa-wyuJqXO0/view?usp=sharing"><img src="./logo.png" alt="" width="1783" class="cards"/></a>
       <h4>Word editor</h4>
       <p class="tag">Microsoft word</p>
       <p class="text_column">Making a logo.</p>
     </div>
-    <div class="thumbnail"> <a href="https://drive.google.com/file/d/1lhJvH_pglKU2a4F5JYSvOxYflbzheB1I/view?usp=sharing"><img src="./pp.png" alt="" width="1976" class="cards"/></a>
+		<div class="thumbnail"> <a href="https://drive.google.com/file/d/1lhJvH_pglKU2a4F5JYSvOxYflbzheB1I/view?usp=sharing"><img src="./pp.png" alt="" width="1976" class="cards"/></a>
       <h4>Power point</h4>
       <p class="tag">Microsoft Powepoint</p>
       <p class="text_column">Creating animation in powerpoint of iot project.</p>
@@ -72,8 +74,8 @@
       <h4>Personal Blog</h4>
       <p class="tag">Abode Dreamweaver</p>
       <p class="text_column">Creating personal blog using dreamweaver.</p>
+    </div>  
     </div>
-	    </div>
 	</section>
   <!-- Footer Section -->
   <div id="contact" style="background: rgba(77,76,76,1.00)">
@@ -90,5 +92,5 @@ function myFunction() {
 <!-- Main Container Ends -->
 	</div>
 	</div>
-</body>
+  </body>
 </html>
