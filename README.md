@@ -26,7 +26,7 @@
 	  </div>
   </section>
   <!-- Stats Gallery Section -->
-	<section id="Gallery" class="parallax-section">
+<section id="Gallery">
   <div class="gallery" ;style="background-image: url('./Website-Design-Background.jpg')">
 	  <div class="thumbnail"> <a href="https://drive.google.com/file/d/1IKqghWEcoZRY1hSU_8f2GBa-wyuJqXO0/view?usp=sharing"><img src="./logo.png" alt="" width="1783" class="cards"/></a>
       <h4>Word editor</h4>
@@ -76,7 +76,7 @@
 	    </div>
 	</section>
   <!-- Footer Section -->
-  <footer id="contact">
+  <div id="contact" style="background: rgba(77,76,76,1.00)">
     <p class="hero_header">GET IN TOUCH WITH ME</p>
     <div class="button" onClick="myFunction()">EMAIL ME </div>
 	  <p id="demo" align="center" style="color: aliceblue"></p>
@@ -85,9 +85,10 @@ function myFunction() {
   document.getElementById("demo").innerHTML = "@....aa9007@srmist.edu.in";
 }
 </script>
-  </footer>
   <!-- Copyrights Section -->
   <div class="copyright">&copy;2019 - <strong>All copy rights received.</strong></div>
 <!-- Main Container Ends -->
+	</div>
+	</div>
 </body>
 </html>
