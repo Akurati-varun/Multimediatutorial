@@ -7,7 +7,7 @@
 </head>
 <body style="background: rgba(99,45,193,1.00)">
 <!-- Main Container -->
-<div class="container" style="width: auto"> 
+<div class="container" style="width: 80%"> 
   <!-- Header -->
   <header class="header">
     <h4 class="logo">What's Multimedia?</h4>
