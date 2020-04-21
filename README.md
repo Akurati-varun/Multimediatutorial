@@ -25,13 +25,12 @@
 		<ul class="section-btn">
                               <a href="#Gallery" class="smoothScroll"><span data-hover="Discover More">Discover More</span></a>
                          </ul>
-    </div>
+	  </div>
   </section>
   <!-- Stats Gallery Section -->
 	<section id="Gallery" class="parallax-section">
   <div class="gallery"; style="background-image: url('/C:/Users/akura/Desktop/Website-Design-Background.jpg')">
-	  
-    <div class="thumbnail"> <a href="https://drive.google.com/file/d/1IKqghWEcoZRY1hSU_8f2GBa-wyuJqXO0/view?usp=sharing"><img src="../../Pictures/Screenshots/Screenshot (54).png" alt="" width="1783" class="cards"/></a>
+	  <div class="thumbnail"> <a href="https://drive.google.com/file/d/1IKqghWEcoZRY1hSU_8f2GBa-wyuJqXO0/view?usp=sharing"><img src="../../Pictures/Screenshots/Screenshot (54).png" alt="" width="1783" class="cards"/></a>
       <h4>Word editor</h4>
       <p class="tag">Microsoft word</p>
       <p class="text_column">Making a logo.</p>
@@ -76,8 +75,7 @@
       <p class="tag">Abode Dreamweaver</p>
       <p class="text_column">Creating personal blog using dreamweaver.</p>
     </div>
-	  
-		  </div>
+	    </div>
 	</section>
   <!-- Footer Section -->
   <footer id="contact">
