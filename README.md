@@ -29,7 +29,7 @@
   </section>
   <!-- Stats Gallery Section -->
 	<section id="Gallery" class="parallax-section">
-  <div class="gallery"; style="background-image: url('./Website-Design-Background.jpg')">
+  <div style="background-image: url('./Website-Design-Background.jpg')">
 	  <div class="thumbnail"> <a href="https://drive.google.com/file/d/1IKqghWEcoZRY1hSU_8f2GBa-wyuJqXO0/view?usp=sharing"><img src="./logo.png" alt="" width="1783" class="cards"/></a>
       <h4>Word editor</h4>
       <p class="tag">Microsoft word</p>
