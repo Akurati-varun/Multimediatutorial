@@ -1,4 +1,3 @@
-<!doctype html>
 <html data_liveedit_tagid="000000002E445C30">
 <head data_liveedit_tagid="00000000141573A0">
 <meta charset="utf-8" data_liveedit_tagid="000000001B18B310">
